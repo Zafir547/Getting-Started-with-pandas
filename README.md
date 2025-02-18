@@ -1,8 +1,4 @@
-# Getting-Started-with-pandas
-
-🚀 **Achievement Unlocked!** 🐼✨  
-
-I’m excited to share that I’ve successfully completed **"Getting Started with pandas"**! 🎉  
+# Getting-Started-with-pandas 🐼✨  
 
 Pandas is a powerful Python library for data analysis and manipulation, and this journey has given me hands-on experience with:  
 

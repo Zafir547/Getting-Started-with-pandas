@@ -8,6 +8,6 @@ Pandas is a powerful Python library for data analysis and manipulation, and this
 ✅ Aggregations & Grouping 🔍  
 ✅ Handling Missing Data ❌  
 
-Mastering pandas is crucial in **Data Science & Machine Learning**, and I can’t wait to apply these skills to real-world projects! 🚀   
+Mastering pandas is crucial in **Data Science & Machine Learning** 🚀   
 
 #DataScience #Python #Pandas #MachineLearning #Learning
